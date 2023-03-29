@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-29T11:18:24.651Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="MsNT3cWglVdYnhzxdIBH" version="21.1.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-03-29T11:19:16.862Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="Fe4l8dhnIXvRaZ5OAjnM" version="21.1.1" type="github" pages="2">
   <diagram name="Data_Diagram" id="ausVjJhObuDBFKqBU7ps">
     <mxGraphModel dx="1383" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -9,7 +9,7 @@
             <mxRectangle x="10" y="80" width="90" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y8LU9D_QJWCAFpaZC5E6-6" value="seqnnumb number(10)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Y8LU9D_QJWCAFpaZC5E6-5">
+        <mxCell id="Y8LU9D_QJWCAFpaZC5E6-6" value="gamenumb number(10)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Y8LU9D_QJWCAFpaZC5E6-5">
           <mxGeometry y="30" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Y8LU9D_QJWCAFpaZC5E6-7" value="gamename varchar (100)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Y8LU9D_QJWCAFpaZC5E6-5">
@@ -18,7 +18,7 @@
         <mxCell id="Y8LU9D_QJWCAFpaZC5E6-8" value="gamevers varchar (100)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Y8LU9D_QJWCAFpaZC5E6-5">
           <mxGeometry y="90" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Y8LU9D_QJWCAFpaZC5E6-77" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Y8LU9D_QJWCAFpaZC5E6-5">
+        <mxCell id="Y8LU9D_QJWCAFpaZC5E6-77" value="gameprice number(100)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Y8LU9D_QJWCAFpaZC5E6-5">
           <mxGeometry y="120" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Y8LU9D_QJWCAFpaZC5E6-78" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Y8LU9D_QJWCAFpaZC5E6-5">
